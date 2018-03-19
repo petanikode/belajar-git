@@ -1,6 +1,7 @@
-# belajar-git
+# Tutorial Belajar Git untuk Pemula
 
-Repository ini adalah repository untuk belajar Git. Silahkan baca materi tentang [git remote di Petani Kode](https://www.petanikode.com/git-remote).
+Repository ini adalah repository _dummy_ untuk belajar Git. 
+Silahkan baca materi tentang [git remote di Petani Kode](https://www.petanikode.com/git-remote).
 
 Atau mulai belajar Git dari awal:
 
