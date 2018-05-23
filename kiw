@@ -1,0 +1,461 @@
+[33mcommit d9f27ce8803be073320c43184ea3817b193e90ca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8ea7f31 5c39509
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Wed Apr 11 21:23:46 2018 +0800
+
+    Merge pull request #19 from roti0/master
+    
+    ditambahkan kok
+
+[33mcommit 5c395092a976f64fcfe20dfe6de61cfe1c87f8b4[m
+Merge: c380f0e 8ea7f31
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Wed Apr 11 21:23:35 2018 +0800
+
+    Merge branch 'master' into master
+
+[33mcommit 8ea7f31ad0f61f10ae969ccf473b2720e4da80b1[m
+Merge: 2dff1d5 feabe21
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Wed Apr 11 21:22:37 2018 +0800
+
+    Merge pull request #18 from hidaymdr/master
+    
+    Tambah tes tambahan
+
+[33mcommit 2dff1d5e5a622f3bc8d06e715ab965feb3bffcdb[m
+Merge: c77300c 6a2bf1b
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Wed Apr 11 21:21:46 2018 +0800
+
+    Merge pull request #17 from mbayuajis/master
+    
+    tes pertama
+
+[33mcommit c380f0e1c309346aa4bd7a403af3aeab33bda983[m
+Author: roti0 <roti0@users.noreply.github.com>
+Date:   Mon Apr 9 22:35:57 2018 +0700
+
+    ini yang terbaru
+
+[33mcommit 7058df83edb51aca0df9fd56d739fd4b88146f9b[m
+Author: roti0 <roti0@users.noreply.github.com>
+Date:   Mon Apr 9 22:12:36 2018 +0700
+
+    ditambahkan kok
+
+[33mcommit feabe217cf41f2344a90acc33ee10f87d42eaece[m
+Author: MohHyangHidayat <hyang.hiday@gmail.com>
+Date:   Mon Apr 9 15:33:56 2018 +0700
+
+    Tambah tes tambahan
+
+[33mcommit 6a2bf1bf7e4cbfd3e3609d58a8fe36cb6c3d07bd[m
+Author: mbayuajis <bayuu.will@gmail.com>
+Date:   Sun Apr 8 23:31:29 2018 +0700
+
+    tes pertama
+
+[33mcommit c77300c36a22c923e2ab76aa54f2e590581d9b3f[m
+Merge: 2075dc1 eaa755f
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Mon Mar 19 11:46:51 2018 +0800
+
+    Merge pull request #16 from ayipeiger/master
+    
+    Kontribusi Belajar Git
+
+[33mcommit eaa755f3f6e2a7dd7ad5a1b982cb69e5e319b8c3[m
+Author: Dimas Setiawan <dimaz.cr7@gmail.com>
+Date:   Mon Mar 19 10:10:50 2018 +0700
+
+    halusiansi
+
+[33mcommit f222f3c60185b856dce6364f151a54839942bf81[m
+Author: Dimas Setiawan <dimaz.cr7@gmail.com>
+Date:   Mon Mar 19 10:06:19 2018 +0700
+
+    commit again
+
+[33mcommit c07e1e74930671c6b66bec01d29eb79eeba1ffa5[m
+Author: Dimas Setiawan <dimaz.cr7@gmail.com>
+Date:   Mon Mar 19 10:04:04 2018 +0700
+
+    tambahkan 1 kontributor baru
+
+[33mcommit 2075dc1a82eba8d211250c5a725ab46222e4d56b[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Mon Mar 19 10:52:04 2018 +0800
+
+    update README.md
+
+[33mcommit 146b77acfefbc859305f4218794af9f4c0a34776[m
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Mon Mar 19 10:44:20 2018 +0800
+
+    Update README.md
+    
+    ditambahkan link
+
+[33mcommit 636fdaf789ddf43140f43fb88815c9066cacdbe3[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Mon Mar 19 10:41:37 2018 +0800
+
+    remove duplicate
+
+[33mcommit 48ad02ccd504339650e0956690db6d3c983ee07e[m
+Merge: fda019c 0a780ca
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Mon Mar 19 10:28:14 2018 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit fda019c633908d32b5598f11edc892db08be2668[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sun Mar 18 23:32:01 2018 +0800
+
+    mengubah link no 9
+
+[33mcommit 0a780cab522d7c36c756281111f38c7c5504a304[m
+Merge: 54381c3 978e130
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Mon Feb 5 17:59:43 2018 +0800
+
+    Merge pull request #15 from iqbaladan/master
+    
+    Kontribusi belajar git
+
+[33mcommit 978e1304c69e6310e1d07dca0eb5d5063b3e6f2d[m
+Merge: 54381c3 42e0de1
+Author: M. Iqbal Adan <adan.stuff@gmail.com>
+Date:   Mon Feb 5 16:03:37 2018 +0700
+
+    Merge pull request #1 from iqbaladan/iqbaladan-patch-1
+    
+    Create iqbaladan.txt
+
+[33mcommit 42e0de1c8be4f9ad7079c509c27f080c2342ad6d[m
+Author: M. Iqbal Adan <adan.stuff@gmail.com>
+Date:   Mon Feb 5 16:02:10 2018 +0700
+
+    Create iqbaladan.txt
+    
+    Initial commit
+
+[33mcommit 54381c37627c40d886458daec87ab317043f8543[m
+Merge: 41fb245 ed8dd61
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Mon Jan 22 04:47:17 2018 +0800
+
+    Merge pull request #14 from ilhamsa1/master
+    
+    Kontibusi ilhamsa1
+
+[33mcommit ed8dd61b4a62c16c32c7e7a6291c781fd2d460aa[m
+Author: ilhamsa1 <ilhamstomdevva@gmail.com>
+Date:   Sun Jan 21 22:52:48 2018 +0700
+
+    Kontibusi ilhamsa1
+
+[33mcommit 41fb24575a6b5e20ea36dbf7f49bee09ff591cd5[m
+Merge: 2e17ad0 a52577e
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Tue Jan 2 13:11:35 2018 +0800
+
+    Merge pull request #10 from yogs22/master
+    
+    Kontribusi Belajar GIT
+
+[33mcommit a52577e32e7d5038a576fe0a9ae128d832523742[m
+Merge: 2f16ce4 2e17ad0
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Tue Jan 2 13:11:23 2018 +0800
+
+    Merge branch 'master' into master
+
+[33mcommit 2f16ce4e5659e334d2e1ef370484ea8b3bea89b3[m
+Merge: 67a8e73 2e17ad0
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Tue Jan 2 13:10:39 2018 +0800
+
+    Merge branch 'master' into master
+
+[33mcommit 2e17ad09848ff435cc01d27e65d73814f655344c[m
+Merge: be0d248 164ebe6
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Tue Jan 2 13:09:03 2018 +0800
+
+    Merge pull request #13 from bambanghariantosianturi/patch-2
+    
+    Update bams.txt
+
+[33mcommit 164ebe6bea5005e1dc513ce6b474c50eab8f97b4[m
+Author: Bambang Harianto Sianturi <bambangsianturi26@gmail.com>
+Date:   Tue Jan 2 11:53:01 2018 +0700
+
+    Update bams.txt
+
+[33mcommit be0d24833045ac384ca4ee2da258a3536506ebfc[m
+Merge: 203e89e 534869f
+Author: Ardianta <ardianta_pargo@yahoo.co.id>
+Date:   Sat Dec 30 06:22:10 2017 +0800
+
+    Merge pull request #12 from bambanghariantosianturi/master
+    
+    Terimakasih @bambanghariantosianturi
+
+[33mcommit 534869fceebfaad520ceae9851ca78c2f47651b5[m
+Author: bambanghariantosianturi <bambangsianturi26@gmail.com>
+Date:   Fri Dec 29 11:34:56 2017 +0700
+
+    kontribusi bams
+
+[33mcommit 203e89ecdb3792202247e9ae4e95eb469de2fb8b[m
+Merge: 9f3fd62 741298f
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Wed Dec 20 19:06:27 2017 +0800
+
+    Merge pull request #11 from andriarfianto/master
+    
+    kontributor andriarfianto
+
+[33mcommit 741298fa3655a32026c9e8407ad508979c23f0ac[m
+Author: andriarfianto <aarfianto11@gmail.com>
+Date:   Wed Dec 20 17:24:00 2017 +0700
+
+    kontributor andriarfianto
+
+[33mcommit 67a8e7324c49caa7e6b7f57786aca0eaee30d7b8[m
+Author: Yogi Prasetyawan <yogi.enjoyers22@gmail.com>
+Date:   Tue Dec 19 22:35:38 2017 +0700
+
+    Rubah index
+
+[33mcommit ec16e95a6b6f1c70714fe47475984708b5ddcde9[m
+Author: Yogi Prasetyawan <yogi.enjoyers22@gmail.com>
+Date:   Tue Dec 19 22:29:35 2017 +0700
+
+    Ada Perubahan
+
+[33mcommit 8d52c37f19e69c8e98b099a5413cb65340aace09[m
+Author: Yogi Prasetyawan <yogi.enjoyers22@gmail.com>
+Date:   Tue Dec 19 22:20:39 2017 +0700
+
+    oke baby
+
+[33mcommit 9f3fd6228fb9216a2d4ad632e2d4f3c9a7883984[m
+Merge: 4d47f34 3752ac3
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Tue Dec 19 22:46:05 2017 +0800
+
+    Merge pull request #9 from fardhanardhi/master
+    
+    kontribusi git
+
+[33mcommit 3752ac3eb18e5de25c600096e6cc0db325166034[m
+Author: Fardhan Ardhi <fa.dsg.id@gmail.com>
+Date:   Tue Dec 19 21:30:11 2017 +0700
+
+    update index.html
+
+[33mcommit f5adfa235c8649e536a17fc1ba9082f5699c0ad9[m
+Author: Fardhan Ardhi <fa.dsg.id@gmail.com>
+Date:   Tue Dec 19 21:22:28 2017 +0700
+
+    edit cont
+
+[33mcommit 4d47f347178feae35fb49d4c0f643e0775b7b907[m
+Merge: 2c0ecb2 adaaacf
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sat Nov 25 14:11:55 2017 +0800
+
+    Merge pull request #7 from shofianra/master
+    
+    dikurangi dan ditambah nama Shofian
+
+[33mcommit 2c0ecb2506eae6630c6a74e167a2862da7872407[m
+Merge: 0586ec0 03798d1
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sat Nov 25 14:11:00 2017 +0800
+
+    Merge pull request #8 from skadevz/master
+    
+    kontribusi git
+
+[33mcommit 03798d17f291afdeb1ef5984602da75c998a5dd0[m
+Author: Ichsan Firdaus <ichsanfirdaus99@gmail.com>
+Date:   Fri Nov 24 23:08:31 2017 +0700
+
+    kontribusi skadevz
+
+[33mcommit 1dd158f78909149f56a62299d6f7664425cb6f90[m
+Author: Ichsan Firdaus <ichsanfirdaus99@gmail.com>
+Date:   Fri Nov 24 23:08:00 2017 +0700
+
+    isi login.html
+
+[33mcommit adaaacf82c87a3e67f1b2dcd4f8f4b43dc509f30[m
+Author: shofianra <shofianra@gmail.com>
+Date:   Sun Nov 19 22:02:35 2017 +0700
+
+    dikurangi dan ditambah nama Shofian
+
+[33mcommit 0586ec08330eea3d62cdf73b27e68e6245ee1278[m
+Merge: 3860824 318c21c
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sun Nov 19 14:22:18 2017 +0800
+
+    Merge pull request #6 from aufaroot18/master
+    
+    first contribution to petanikode
+
+[33mcommit 318c21ce83b73a02904a64c0101a3f7ca75a1a1a[m
+Author: Aufa Billah <aufaroot18@gmail.com>
+Date:   Sun Nov 19 09:28:58 2017 +0700
+
+    first contribution to petanikode
+
+[33mcommit 38608244517fe21b95ec25d006a42ffb3e4677d8[m
+Merge: 676f4ed ce07504
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sat Oct 28 14:50:39 2017 +0800
+
+    Merge pull request #5 from arzakmiftakhul/kontributorArzak
+    
+    latihan pull request
+
+[33mcommit ce075041cc49574d24d777c720b3780b61999d9a[m
+Author: miftakhularzak <miftakhularzak@gmail.com>
+Date:   Fri Oct 27 06:40:25 2017 +0700
+
+    latihan pull request
+
+[33mcommit 676f4ed1355eae83471dd6c60baf1e784f581c21[m
+Merge: 4808ab8 2a57edd
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Thu Oct 26 15:26:08 2017 +0800
+
+    Merge pull request #4 from hardzal/master
+    
+    Belajar Github
+
+[33mcommit 2a57edd23add042ba0dfc7c44835564de410f6ec[m
+Author: MRizal Wrc <hardzal@users.noreply.github.com>
+Date:   Tue Oct 24 17:26:40 2017 +0700
+
+    Create hardzal.txt
+
+[33mcommit 9bd0591ca930292da9c096bbdc0d99789f9af40a[m
+Author: MRizal Wrc <hardzal@users.noreply.github.com>
+Date:   Tue Oct 24 17:21:13 2017 +0700
+
+    Update index.html
+
+[33mcommit 4808ab8fb1fe50774c9f9f8d79d1caed8804d4c9[m
+Merge: 4a377f1 3c804de
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sun Oct 22 13:33:05 2017 +0800
+
+    Merge pull request #3 from mfaridzia/master
+    
+    Kontribusi pada repo belajar-git
+
+[33mcommit 3c804de3b94ab7a740056c4198d8db099e108b97[m
+Author: Muh Farid Zia <farid19barcelona@gmail.com>
+Date:   Sun Oct 22 08:56:40 2017 +0800
+
+    kontribusi muhfaridzia
+
+[33mcommit daa42a5ed0197e2818c95b244897ed6d47c59fe0[m
+Author: Muh Farid Zia <farid19barcelona@gmail.com>
+Date:   Sun Oct 22 08:53:53 2017 +0800
+
+    menambahkan teks hello world pada file index.html
+
+[33mcommit 4a377f1ac132c76a952fb12bed4c2aaa5db1e37f[m
+Merge: 651a824 43aee6a
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sat Oct 21 19:46:37 2017 +0800
+
+    Merge pull request #2 from IlhamWahabiGX/master
+    
+    Belajar Kontribusi Open Source
+
+[33mcommit 43aee6ad551144bc4b0e64d62d1820ca8fd660db[m
+Author: IlhamWahabiGX <wahabiputra@gmail.com>
+Date:   Sat Oct 21 09:15:09 2017 +0700
+
+    Add new paragraph
+
+[33mcommit 651a824663586b235dd26bd840a483864340daeb[m
+Merge: e4dbc35 652df64
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Tue Oct 3 20:36:59 2017 +0800
+
+    Merge pull request #1 from ardianta/master
+    
+    Kontribusi Belajar Git
+
+[33mcommit 652df648fcdaccf791b71bd2d8d278ceab7d6468[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Tue Oct 3 19:12:23 2017 +0800
+
+    kontribusi ardianta
+
+[33mcommit 7527022539610b4e0ad3dff73ef647937668ff3d[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Tue Oct 3 19:12:00 2017 +0800
+
+    ditambahkan aturan berkontribusi
+
+[33mcommit e4dbc3527208896dcbbf6be146f6c0c24df12f5b[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sun Oct 1 13:22:37 2017 +0800
+
+    Membuat file register.html
+    
+    Menambahkan file register.html untuk halaman registrasi user
+
+[33mcommit 3951f1543780cf2143d167a6015673f9e28f9d26[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sun Oct 1 12:43:32 2017 +0800
+
+    membuat file README.md
+    
+    Ditambahkan keterangan tentang repository dan link-link tutorial Git ke Petani Kode
+
+[33mcommit 1c13457b839c4d383a9db4a1a6507354e84c1461[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sun Oct 1 11:56:49 2017 +0800
+
+    mengubah judul dan teks di body
+
+[33mcommit 865e50c503ba1daec509f2b842dc5888691a31a3[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sun Mar 5 19:33:21 2017 +0800
+
+    commit hasil revert
+
+[33mcommit 023b078a79e105455ce322979642a8f48250c053[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sun Mar 5 18:40:32 2017 +0800
+
+    ditambahkan login.html
+
+[33mcommit 6cdfdbb8080b6a67cf1ba5dab177bb1a2e8cef03[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Sun Mar 5 18:24:42 2017 +0800
+
+    ada perubahan
+
+[33mcommit 06f735af7724558164c87f6b1ce3ca7778eb1c1b[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Mon Feb 13 18:26:50 2017 +0800
+
+    ditambahkan isi
+
+[33mcommit cf08ca0837cf26f1c595be36bb3a6b815e311be1[m
+Author: Ardianta Pargo <ardianta_pargo@yahoo.co.id>
+Date:   Mon Feb 13 18:08:56 2017 +0800
+
+    commit pertama
