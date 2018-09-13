@@ -5,7 +5,7 @@ Silahkan baca materi tentang [git remote di Petani Kode](https://www.petanikode.
 
 Atau mulai belajar Git dari awal:
 
-- [Tutorial Git 01 - Instalasi Git dan Perisiapan Awal](https://www.petanikode.com/git-install/)
+- [Tutorial Git 01 - Instalasi Git dan Persiapan Awal](https://www.petanikode.com/git-install/)
 - [Tutorial Git 02 - Membuat Repositori Git](https://www.petanikode.com/git-init/)
 - [Tutorial Git 03 - Membuat Revisi](https://www.petanikode.com/git-commit/)
 - [Tutorial Git 04 - Melihat Catatan Log Revisi Git](https://www.petanikode.com/git-log/)
