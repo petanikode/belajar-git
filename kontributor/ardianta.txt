@@ -1,5 +1,5 @@
-Nama: Ardianta Pargo
-Github: https://github.com/ardianta
-Web: https://ardianta.github.io
+Nama: Moch Isrib
+Github: https://github.com/MochIsrin068/belajar-git.git
+Web: https://MochIsrin068.github.io
 
-Bio: Pengamat langit dan suka belajar hal-hal baru.
+Bio: Pemberani dalam hal-hal yang baru.
