@@ -6,12 +6,28 @@
 		<style>
 			table{
 				border:1px dotted blue;
+				padding: 10px;
+			}
+			.center {
+				margin: auto;
+			}
+			.p-10 {
+				padding-top: 10%;
+			}
+			.btn {
+				width:100%;
+				color:aqua;
+				background-color: black;
+				height: 25px;
 			}
 		</style>
 	</head>
 	<body>
-		<table>
-			<caption><h1>Login</h1></caption>
+		<div class="p-10">
+		<table class="center">
+			<caption>
+				<h1>Login</h1>
+			</caption>
 			<tr>
 				<td>Username : </td>
 				<td> <input type="text"> </td>
@@ -23,8 +39,11 @@
 			</tr>
 
 			<tr>
-				<td colspan="2"><button type="button" style="width:100%;color:aqua;background-color: black;">Login</button></td>
+				<td colspan="2">
+					<button type="button" class="btn">Login</button>
+				</td>
 			</tr>
 		</table>
+		</div>
 	</body>
 <html>
