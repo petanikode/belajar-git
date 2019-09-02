@@ -1,14 +1,61 @@
-di sini nanti berisi coding untuk registrasi
+di sini nanti berisi coding untuk registrasi<br>//ini kontribusiku, mana kontribusimu?
 <html>
 
 <head>
     <title>Form Pendaftaran</title>
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap" rel="stylesheet">
 </head>
 
 <body>
+
+    <style>
+        body {
+            font-family: 'Noto Sans', sans-serif;
+        }
+
+        table {
+            transform: scale(0);
+            animation: zooming 1s ease forwards;
+        }
+
+        @keyframes zooming {
+            100% {
+                transform: scale(1.0);
+            }
+        }
+
+        input[type=text], input[type=password] {
+            padding: 10px;
+            border: 1px solid #999;
+            border-radius: 5px;
+            border-style: solid;
+        }
+
+        select {
+            padding: 5px;
+            background-color: #FFF;
+            border: 1px solid #999;
+            border-radius: 5px;
+            border-style: solid;
+        }
+
+        input[type=submit] {
+            height: 40px;
+            width: 100%;
+            display: block;
+            padding: 5px;
+            background-color: #FFF;
+            border: 1px solid #999;
+            border-radius: 5px;
+            border-style: solid;
+            color: #FFF;
+            font-weight: bold;
+        }
+    </style>
+
     <table border="4" bgcolor="A9C5EB" align="center" height="500" width="400" cellpadding="20">
         <tr>
-            <td>
+            <td><form action="#">
                 <b>
                     <font color="black" size="10"> Mendaftar </font>
                 </b>
@@ -112,10 +159,10 @@ di sini nanti berisi coding untuk registrasi
                 <input type="radio" name="Kelamin" value="L">Laki Laki
                 <input type="radio" name="Kelamin" value="P">Perempuan
                 <br><br>
-                <input value="Kirim" style="background-color: 4985D0; height: 50; width: 150;" type="submit">
+                <input value="Daftar!" style="background-color: #4985D0;" type="submit">
+            </form>
             </td>
         </tr>
 
 </body>
-
-</html> //ini kontribusiku, mana kontribusimu?
+</html> 
