@@ -5,6 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Belajar Git: Remote Repository</title>
+        <link rel="manifest" href="/manifest.json">
 </head>
 <style>
         html,body{
@@ -30,5 +31,12 @@
         </div>
         
 </body>
-
+<script>
+        if('serviceWorker' in navigator) {
+          navigator.serviceWorker
+                   .register('/sw.js')
+                   .then(function() { console.log("Service Worker Registered"); });
+        }
+</script>
+        
 </html>
