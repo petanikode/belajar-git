@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <title>HALAMAN INDEX</title>
+
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,18 +9,20 @@
         <link rel="manifest" href="/manifest.json">
 </head>
 <style>
-        html,body{
-                background:#f4fcff;
-                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        html,
+        body {
+                background: #f4fcff;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
-        .container{
+
+        .container {
                 margin: 0px auto;
-                width:80%;
+                width: 80%;
                 background: white;
-                box-shadow: 0px 0px 13px rgba(0,0,0,0.1);
+                box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.1);
                 padding: 20px;
-                border-radius:5px;
-                border-top:3px solid #1bbb12;
+                border-radius: 5px;
+                border-top: 3px solid #1bbb12;
         }
 </style>
 
@@ -32,16 +35,19 @@
 
         <div class="container">
                 <h2>ini puya gue</h2>
+                <h2>Hello Guys!</h2>
         </div>
 
-        
+
 </body>
 <script>
-        if('serviceWorker' in navigator) {
-          navigator.serviceWorker
-                   .register('/sw.js')
-                   .then(function() { console.log("Service Worker Registered"); });
+        if ('serviceWorker' in navigator) {
+                navigator.serviceWorker
+                        .register('/sw.js')
+                        .then(function () {
+                                console.log("Service Worker Registered");
+                        });
         }
 </script>
-        
+
 </html>
