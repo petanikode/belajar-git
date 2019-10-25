@@ -5,6 +5,9 @@ Silahkan baca materi tentang [git remote di Petani Kode](https://www.petanikode.
 
 Atau mulai belajar Git dari awal:
 
+## Pemula
+
+- [Tutorial Git 00 - Apa itu Git dan Kenapa Penting Bagi Programmer?](https://www.petanikode.com/git-untuk-pemula/)
 - [Tutorial Git 01 - Instalasi Git dan Persiapan Awal](https://www.petanikode.com/git-install/)
 - [Tutorial Git 02 - Membuat Repositori Git](https://www.petanikode.com/git-init/)
 - [Tutorial Git 03 - Membuat Revisi](https://www.petanikode.com/git-commit/)
@@ -17,3 +20,16 @@ Atau mulai belajar Git dari awal:
 - [Tutorial Git 10 - Menggunakan Git Fetch dan Git Pull](https://www.petanikode.com/git-pull-fetch/)
 - Tutorial Git 11 - Git Tag
 - ...
+
+## Mahir
+
+- [Github Workflow: Cara Berkontribusi di Proyek Open Source](https://www.petanikode.com/github-workflow/)
+- [Menggunakan Git pada Visual Studio Code (Lebih praktis!)](https://www.petanikode.com/git-vscode/)
+- [Cara Upload File ke Server FTP ala Git](https://www.petanikode.com/cara-upload-file-ke-server-ftp-ala-git/)
+- [Cara Menggunakan SSH di Github](https://www.petanikode.com/github-pages/)
+- [Cara Membuat Halaman Github Kurang dari 10 Menit](https://www.petanikode.com/github-pages/)
+- [Cara Menggunakan SSH untuk Bitbucket](https://www.petanikode.com/mengatasi-masalah-public-key-bitbucket/)
+- [Cara Membuat Halaman Github untuk Repositori](https://www.petanikode.com/github-pages-repositori/)
+- …
+
+Lihat selengkapnya di [Petanikode](https://www.petanikode.com/tutorial/git)
