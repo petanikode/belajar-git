@@ -1,0 +1,3 @@
+Nama: Abdul Qodir
+Github: https://github.com/qodirz
+Note: lagi belajar pull request, biasanya lansung push ke branch yang sudah ada.
