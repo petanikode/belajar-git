@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="http://bgrins.github.io/spectrum/spectrum.css"> -->
+
+    <title>Initial Avatar</title>
+</head>
+
+<body>
+    <div class="container mt-5">
+        <div class="row align-items-center">
+            <div class="col-md-8">
+                <h2 class="text-center mb-4">Buat Avatar Dengan Inisial Nama Anda</h2>
+                <form id="form">
+                    <div class="form-row">
+                        <div class="col form-group">
+                            <label for="">Nama <small class="text-danger">*</small></label>
+                            <input type="text" name="name" id="name" class="form-control" required>
+                        </div>
+                        <div class="col form-group">
+                            <label for="">Ukuran</label>
+                            <input type="number" name="size" id="size" class="form-control" min="16" max="512" value="64">
+                            <small id="emailHelp" class="form-text text-muted">Ukuran antara 16px sampai 512px (default 64px).</small>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col form-group">
+                            <label for="">Warna</label>
+                            <input type="color" name="color" id="color" class="form-control" value="#000000">
+                        </div>
+                        <div class="col form-group">
+                            <label for="">Warna Teks</label>
+                            <input type="color" name="font" id="font" class="form-control" value="#ffffff">
+                        </div>
+                    </div>
+                    <div class="form-group w-100">
+                        <button type="submit" class="btn btn-primary w-100 mt-4">Generate</button>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-4 text-center">
+                <a href="" id="link-download" download>
+                    <img src="" alt="" id="result-images">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+    <!-- <script src="http://bgrins.github.io/spectrum/spectrum.js"></script> -->
+    <script>
+        $(document).ready(function(){
+            $('#color').on('change', function(e){
+                let pick = $(this).val();
+
+                $(this).val(pick)
+            });
+
+            $('#font').on('change', function(e){
+                let pick = $(this).val();
+
+                $(this).val(pick)
+            });
+
+            $('#form').submit(function(e){
+                e.preventDefault();
+
+                var inputs = $('#form :input');
+
+                var values = {};
+
+                inputs.each(function() {
+                    let value = $(this).val();
+                    if (this.name == 'color' || this.name == 'font') {
+                        value = value.substring(1);
+                    }
+                    values[this.name] = value;
+                });
+                
+                let image = `https://ui-avatars.com/api/?name=${values.name}&size=${values.size}&background=${values.color}&color=${values.font}`;
+            
+                console.log(image);
+
+                $('#result-images').attr("src", image);
+                $('#link-download').attr("href", image);
+            });
+        })
+    </script>
+</body>
+
+</html>
