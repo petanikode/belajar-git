@@ -1,0 +1,7 @@
+Hello My name is Rizky Nugraha,
+i want share my linux dotfiles config : 
+|@lordacil|https://github.com/lordacil/dotfiles-openbox.git|
+
+-ArigaThanks :)
+
+
