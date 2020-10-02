@@ -1,68 +1,73 @@
 <!DOCTYPE html>
-
+<html lang="en">
 <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Belajar Git: Remote Repository</title>
-        <link rel="manifest" href="/manifest.json">
-</head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wisata Lombok</title>
 <style>
-        html,
-        body {
-                background: #f4fcff;
-                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+}
 
-        .container {
-                margin: 0px auto;
-                width: 80%;
-                background: white;
-                box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.1);
-                padding: 20px;
-                border-radius: 5px;
-                border-top: 3px solid #0f110f;
-        }
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+li a.active {
+  color: white;
+  background-color: #212721;
+}
+div{
+    align-items: center;
+}
 </style>
-
+</head>
 <body>
-        <div class="container">
-                <h1>Halaman index</h1>
-                <p>Hello, everybody, now, I am studying about Git</p>
-                <p>Yeah, I'm studying about remote repository. OKE</p>
-        </div>
+    <ul>
+        <li><a class="active" href="index.html">Home</a></li>
+        <li><a href="beach.html">Beach</a></li>
 
-        <div class="container">
-                <h2>ini punya kita bukan gue doang</h2>
-                <h2>Hello Guys!</h2>
-                <h2>HELLO WORLD</h2>
-                <h2>Hai</h2>
-        </div>
+      </ul>
+    <h1 align="center">Welcome to Lombok Island</h1>
+    <p align="center">Sasak Tribe in Lombok Island</p>
 
-        <div class="container">
-                <h2>Yes Dapat Punya Orang</h2>
-                <h2>Hello Guys!</h2>
-        </div>
+      <img src="rumahadat.jpg" alt="#" style="height: 700px; width: 900px; display: block; margin: auto;">
+      <br>
+      <table align="center" border="0px solid black">
+        <tr >
+            <td><img src="benangkelambu.jpg" alt="#" style="height: 200px; width: 200px;"></td>
+            <td><a href="beach.html"><img src="elakelak.jpg" alt="#" style="width: 200px; height: 200px;"></a></a></td>
+        </tr>
+        <tr>
+            <td align="center">A wonderful heaven hidden 
+                <br> in center lombok </td>
+            <td align="center">like a gili island,
+                <br>elak-elak beach be the one of 
+                <br>the wonderfull beach</td>
+        </tr>
 
-        <div class="container">
-                <h2>Hai semua :)</h2>
-                <h2>Sekarang saya sedang belajar git</h2>
-        </div>
 
-        <div class="container">
-                <h2>Hello Another World!!</h2>
-        </div>
 
-        <!-- coba commit dari vscode-->
+   
+      </table>
+
 
 </body>
-<script>
-        if ('serviceWorker' in navigator) {
-                navigator.serviceWorker
-                        .register('/sw.js')
-                        .then(function () {
-                                console.log("Service Worker Registered");
-                        });
-        }
-</script>
-
 </html>
