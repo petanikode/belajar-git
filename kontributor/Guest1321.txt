@@ -1,0 +1,6 @@
+Nama : Rizal Fathur Rahman
+Github : https://github.com/Guest1321
+Hobi : Gaming
+
+Bio : Saya adalah seorang junior web developer.
+Bahasa Pemrograman yang sedang dipelajari : Dart
