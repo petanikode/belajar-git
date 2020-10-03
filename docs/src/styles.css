@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    background-color: #008581;
+  }
+  
+  .contributor {
+    padding: 10px;
+    width: 120px;
+    display: inline-block;
+  }
+
+  #app{
+      color: white;
+  }
+  
