@@ -1,0 +1,6 @@
+Nama : Sumitro Aji Prabowo
+github : https://github.com/bowo-anakdesa
+email : bowo@anakdesa.id
+
+thanks for this repository. 
+Happy Hacktoberfest 2020 :)
