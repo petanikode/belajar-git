@@ -1,0 +1,4 @@
+File ini hanya berisi file dummy untuk belajar tentang GIT
+Nama    : Yohanes Sigit Laksono
+NIM     : G.231.19.0002
+Tetap Semangat
