@@ -1,5 +1,7 @@
 # Tutorial Belajar Git untuk Pemula
 
+[![Join the chat at https://gitter.im/petanikode/belajar-git](https://badges.gitter.im/petanikode/belajar-git.svg)](https://gitter.im/petanikode/belajar-git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Repository ini adalah repository _dummy_ untuk belajar Git. 
 Silahkan baca materi tentang [git remote di Petani Kode](https://www.petanikode.com/git-remote).
 
