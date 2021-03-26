@@ -1,6 +1,8 @@
 # Tutorial Belajar Git untuk Pemula
 
-[![Join the chat at https://gitter.im/petanikode/belajar-git](https://badges.gitter.im/petanikode/belajar-git.svg)](https://gitter.im/petanikode/belajar-git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<a href="https://gitter.im/petanikode/belajar-git"><img alt="Join the chat at Gitter" src="https://img.shields.io/badge/Gitter-ED1965?style=for-the-badge&logo=gitter&logoColor=white"></a>
+<a href="https://t.me/petanikode"><img alt="Join the chat at Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.facebook.com/petanikode"><img alt="Find us on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 Repository ini adalah repository _dummy_ untuk belajar Git. 
 Silahkan baca materi tentang [git remote di Petani Kode](https://www.petanikode.com/git-remote).
