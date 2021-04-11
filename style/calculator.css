@@ -69,3 +69,8 @@ input[type=text] {
 	color: #ffffff !important;
 	
 }
+
+.yellow {
+	background: yellow !important;
+	color: black !important;
+}
