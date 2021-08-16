@@ -26,7 +26,7 @@ Untracked files:
 
 	git-doc-by-farid.md
 ```
-* Stagged : Sudah di lakukan penandaan tapi belum di commit. caranya dengan perintah git add <nama_file> contoh:
+* Staged : Sudah di lakukan penandaan tapi belum di commit. caranya dengan perintah git add <nama_file> contoh:
   ```
   git add git-doc-by-farid.md
   git add abc.html tes.php
@@ -68,3 +68,110 @@ Sekarang coba pindahkan ke status stagged :
 ``` 
   git add git-doc-by-farid.md
 ```
+hasilnya :   
+```
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   git-doc-by-farid.md
+```
+Pindahkan ke status commited :
+```
+  git commit -m "edit file git-doc-by-farid.md"
+```
+hasilnya :   
+```
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+```
+### Cara melihat log revisi
+```
+git log
+```
+hasilnya : 
+```
+commit d132501c719d095047350cf2bd0d4893676d0677 (HEAD -> master)
+Author: Mohamad Farid Saleh <opencartplugin@gmail.com>
+Date:   Mon Aug 16 08:17:39 2021 +0000
+
+    edit file git-doc-by-farid.md
+
+commit 4f864a676b9613de1295927a3867a08480e102e6
+Author: Mohamad Farid Saleh <opencartplugin@gmail.com>
+Date:   Mon Aug 16 08:08:56 2021 +0000
+
+    tambah file git-doc-by-farid.md
+```
+Agar log lebih pendek :
+```
+git log --oneline
+```
+hasilnya : 
+```
+d132501 (HEAD -> master) edit file git-doc-by-farid.md
+4f864a6 tambah file git-doc-by-farid.md
+```
+
+Untuk melihat detail sebuah log :
+```
+git log 4f864a676b9613de1295927a3867a08480e102e6
+```
+hasilnya : 
+```
+commit 4f864a676b9613de1295927a3867a08480e102e6
+Author: Mohamad Farid Saleh <opencartplugin@gmail.com>
+Date:   Mon Aug 16 08:08:56 2021 +0000
+
+    tambah file git-doc-by-farid.md
+
+commit cc1d22e4a110d6b0e3eb5ae81a5823318c9f5a12 (origin/master, origin/HEAD)
+Author: Mohamad Farid Saleh <github.farid1@gmail.com>
+Date:   Mon Aug 16 14:47:21 2021 +0900
+
+    saya sisipkan kode di index.php
+
+commit ffdcbf902bdaf0ec54f30941053536c543b6d4de (upstream/master)
+Merge: e0b0c6d d83b2cb
+Author: Ahmad Muhardian <dian@petanikode.com>
+Date:   Sun Aug 1 12:12:32 2021 +0800
+
+    Merge pull request #257 from agustig/master
+    
+    Kontribusi agustig dalam belajar git
+dst ......
+```
+
+
+note : *yang ditampikan adalah log dari commit tersebut dan commit setelahnya.*
+
+Untuk melihat log dari sebuah file :
+```
+git log git-doc-by-farid.md
+```
+hasilnya :
+```
+commit d132501c719d095047350cf2bd0d4893676d0677 (HEAD -> master)
+Author: Mohamad Farid Saleh <opencartplugin@gmail.com>
+Date:   Mon Aug 16 08:17:39 2021 +0000
+
+    edit file git-doc-by-farid.md
+
+commit 4f864a676b9613de1295927a3867a08480e102e6
+Author: Mohamad Farid Saleh <opencartplugin@gmail.com>
+Date:   Mon Aug 16 08:08:56 2021 +0000
+
+    tambah file git-doc-by-farid.md
+```
+
+melihat log oleh author tertentu :
+```
+git log --author='Mohamad Farid Saleh'
+atau pakai email :
+git log --author='opencartplugin@gmail.com'
+```
+
+### Cara melihat perbandingan revisi
+Membandingkan 
+
+
