@@ -19,6 +19,13 @@ remote.upstream.fetch=+refs/heads/*:refs/remotes/upstream/*
 ```
 ### Kondisi file git ada 3 :
 * Modified : bisa berupa file baru atau file yang di edit tapi belum dilakukan dengan perintah "git add"
+Kalo dilihat di git status akan seperti :
+```
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	git-doc-by-farid.md
+```
 * Stagged : Sudah di lakukan penandaan tapi belum di commit. caranya dengan perintah git add <nama_file> contoh:
   ```
   git add git-doc-by-farid.md
@@ -26,5 +33,38 @@ remote.upstream.fetch=+refs/heads/*:refs/remotes/upstream/*
   git *.html
   git .
   ```
-  * Committed
+Kalo dilihat di git status akan seperti :
+  ```
+  Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
 
+	new file:   git-doc-by-farid.md
+  ```
+
+  * Commited : sudah dilakukan perintah "git commit" contoh:
+  ```
+  git commit -m "tambah file git-doc-by-farid.md"
+  ```
+
+Kalo dilihat di git status akan seperti :
+  ```
+  On branch master
+  Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+  ```
+
+### Sekarang kita revisi file git-doc-by-farid.md
+kalo kita lihat dengan git status :
+```
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git-doc-by-farid.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+```
+Sekarang coba pindahkan ke status stagged :
+``` 
+  git add git-doc-by-farid.md
+```
