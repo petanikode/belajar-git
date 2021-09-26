@@ -62,12 +62,23 @@ input[type=text] {
 	font-size: 60px;
 	line-height: 60px;
 	margin: 0 25px;
-	
 }
+
+input[type=text]::-webkit-input-placeholder { /* Edge */
+	color: #fff;
+}
+  
+input[type=text]:-ms-input-placeholder { /* Internet Explorer 10-11 */
+	color: #fff;
+}
+  
+input[type=text]::placeholder {
+	color: #fff;
+}
+
 .red {
 	background: #FF0509 !important;
 	color: #ffffff !important;
-	
 }
 
 .yellow {
