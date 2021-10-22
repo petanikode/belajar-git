@@ -1,0 +1,2 @@
+file ini hanya untuk nyoba latihan git , 
+belajar kontribusi ke project
