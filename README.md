@@ -20,5 +20,6 @@ Atau mulai belajar Git dari awal:
 
 ...
 - [Cara Berkontribusi pada Proyek Open Source di Github](https://www.petanikode.com/github-workflow/)
+- [Kumpulan 101+ Link Repositori dan Komunitas Open-source Indonesia di Github](https://www.petanikode.com/github-indonesia/)
 
 Ingin belajar tentang pemrograman lainnya? Silahkan kunjungi website [Petani Kode](https://www.petanikode.com)
