@@ -1,6 +1,0 @@
-Rencana Petani Kode :
-
--FLutter
-
--Python
--Framework
