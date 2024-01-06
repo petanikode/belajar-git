@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Say Hello</title>
+    <style>
+        img {
+            width: 100%;
+            border-radius: 12px;
+            height: 214px;
+            object-fit: cover;
+        }
+
+        #container {
+            max-width: 300px;
+            margin: 0 auto;
+            margin-top: 20vh;
+        }
+
+        .card {
+            background-color: white;
+            border: 1px solid #bacdd8;
+            padding: 8px;
+            border-radius: 12px;
+        }
+
+        .tag {
+            padding: 4px 8px;
+            border: 1px solid #e5eaed;
+            border-radius: 50px;
+            font-size: 12px;
+            font-weight: 600;
+            color: #788697;
+        }
+
+        .name {
+            font-size: 24px;
+            font-weight: 600;
+            margin-top: 16px;
+        }
+
+        p {
+            font-size: 14px;
+            color: #7f8c9b;
+            line-height: 150%;
+        }
+
+        button {
+            border: none;
+            padding: 12px 24px;
+            border-radius: 50px;
+            font-weight: 600;
+            color: #0077ff;
+            background-color: #e0efff;
+            margin: 0 auto;
+            display: block;
+            cursor: pointer;
+        }
+
+        .card__details {
+            padding: 16px 8px 8px 8px;
+        }
+
+        button:focus,
+        button:hover {
+            background-color: #0077ff;
+            color: #e0efff;
+        }
+    </style>
+</head>
+
+<body>
+
+    <body>
+        <div id="container">
+            <div class="card">
+                <img src="https://images.unsplash.com/photo-1631340729644-8b8aad1e9dba?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    alt="Candi Borobudur">
+                <div class="card__details">
+                    <span class="tag">Nature</span>
+                    <span class="tag">Temple</span>
+                    <div class="name">Candi Borobudur</div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur sodales morbi dignissim sed
+                        diam
+                        pharetra
+                        vitae ipsum odio.</p>
+                    <button>Read more</button>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
