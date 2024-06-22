@@ -17,7 +17,7 @@ Atau mulai belajar Git dari awal:
 - [Tutorial Git 08 - Perbedaan Git Checkout, Git Reset, dan Git Revert](https://www.petanikode.com/git-checkout-reset-revert/)
 - [Tutorial Git 09 - Bekerja dengan Remote Repositori](https://www.petanikode.com/git-remote/)
 - [Tutorial Git 10 - Menggunakan Git Fetch dan Git Pull](https://www.petanikode.com/git-pull-fetch/)
-
+tambah tambah aja
 ...
 - [Cara Berkontribusi pada Proyek Open Source di Github](https://www.petanikode.com/github-workflow/)
 
