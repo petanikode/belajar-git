@@ -1,5 +1,0 @@
-Nama : Fahrul Hafidh
-github : https://github.com/h4rfu1
-
-thanks for this repository.
-Happy Hacktoberfest 2021 :)

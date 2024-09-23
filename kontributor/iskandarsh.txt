@@ -1,3 +1,0 @@
-ini percobaan saya untuk ikut hacktoberfest
-
-Iskandar Sholeh

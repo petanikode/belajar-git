@@ -1,1 +1,0 @@
-print('ini adalah saya yang mencoba menjadi kontributor, terima kasih kepada petanikode yang memberikan fasilitas dan ilmu belajar git, MANTAP JIWA')

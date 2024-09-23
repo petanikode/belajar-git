@@ -1,6 +1,4 @@
-# Tutorial Belajar Git untuk Developer Pemula di Indonesia
-
-[![Join the chat at https://gitter.im/petanikode/belajar-git](https://badges.gitter.im/petanikode/belajar-git.svg)](https://gitter.im/petanikode/belajar-git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Tutorial Belajar Git untuk Pemula
 
 Repository ini adalah repository _dummy_ untuk belajar Git. 
 Silahkan baca materi tentang [git remote di Petani Kode](https://www.petanikode.com/git-remote).
@@ -17,7 +15,7 @@ Atau mulai belajar Git dari awal:
 - [Tutorial Git 08 - Perbedaan Git Checkout, Git Reset, dan Git Revert](https://www.petanikode.com/git-checkout-reset-revert/)
 - [Tutorial Git 09 - Bekerja dengan Remote Repositori](https://www.petanikode.com/git-remote/)
 - [Tutorial Git 10 - Menggunakan Git Fetch dan Git Pull](https://www.petanikode.com/git-pull-fetch/)
-tambah tambah aja
+
 ...
 - [Cara Berkontribusi pada Proyek Open Source di Github](https://www.petanikode.com/github-workflow/)
 
