@@ -1,0 +1,106 @@
+body {
+    background: linear-gradient(269deg, #a2f3df, #b5dbf5, #f5f4b5);
+    background-size: 600%;
+    font-family: 'Montserrat', sans-serif;
+    color: #484848;
+    margin: 0 50px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    -webkit-animation: rightLoop 8s ease infinite;
+    -moz-animation: rightLoop 8s ease infinite;
+    animation: rightLoop 8s ease infinite;
+  }
+  
+  .list {
+    background-color: #fff;
+    width: 350px;
+    height: 535px;
+    padding: 15px;
+    border: 5px solid #a39fbc;
+    border-radius: 14px;
+    overflow-y: scroll;
+  }
+  
+  .mb-3{
+    text-align: center;
+  }
+  
+  .list::-webkit-scrollbar {
+    width: 0 !important;
+  }
+  
+  #addNew {
+    background-color: #ccc7ef;
+    padding: 5px 10px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    border-radius: 7px;
+    cursor: pointer;
+    justify-content: center;
+  }
+  
+  .fa-plus {
+    background-color: #ccc7ef;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  #tasks {
+    display: inline-block grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  
+  #tasks div {
+    background-color: #ccc7ef;
+    border-radius: 7px;
+    display: grid;
+    margin-bottom: 10px;
+    padding: 6px 10px;
+    gap: 4px;
+    word-break: break-word; 
+  }
+  
+  #tasks div .options {
+    justify-self: center;
+    display: flex;
+    gap: 20px;
+  }
+  
+  #tasks div .options i {
+    cursor: pointer;
+  }
+  
+  #textarea::placeholder{
+    color: #00000080;
+  }
+  
+  #errormsg {
+    color: rgb(255, 0, 0);
+  }
+  
+  #taskLine{
+    color: #a39fbc;
+  }
+  
+  @-webkit-keyframes rightLoop {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+  }
+  
+  @-moz-keyframes rightLoop {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+  }
+  
+  @keyframes rightLoop {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+  }
