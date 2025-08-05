@@ -8,5 +8,6 @@ perhatikan aturan berikut.
 
 - Dilarang menggunakan kata-kata kotor, rasis, dan lain-lain.
 - Silahkan tambahkan file di dalam direktori `kontributor` dengan
-nama file menggunakan username Github, contoh `petanikode.txt`.
+  nama file menggunakan username Github, contoh `petanikode.txt`.
 - Dilarang merubah file di direktori `kontributor` milik orang lain.
+  qwertyuiop1234567890
