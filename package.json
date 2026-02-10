@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/babaiyu/belajar-git#readme",
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^1.13.5",
     "bootstrap": "^4.5.2",
     "regenerator-runtime": "^0.13.7"
   },
