@@ -5,7 +5,7 @@ Kamu bebas merubah apa saja di sini, namun kamu harus
 perhatikan aturan berikut.
 
 ## Aturan Berkontribusi di Proyek ini
-
+-galang agung
 - Dilarang menggunakan kata-kata kotor, rasis, dan lain-lain.
 - Silahkan tambahkan file di dalam direktori `kontributor` dengan
 nama file menggunakan username Github, contoh `petanikode.txt`.
